@@ -22,7 +22,7 @@ integrity, and controlled access to sensitive digital files.
 # Tools & Technologies: 
 • Frontend: Vite React (TSX), Tailwind CSS 
 • Backend: Python 
-• Security: AES-256, Cryptography Library, Hashlib 
+• Security: AES-128, Cryptography Library, Hashlib 
 • Storage: Local file system  
 • Tools: VS Code, GitHub 
 • Deployment: Localhost / College Server
