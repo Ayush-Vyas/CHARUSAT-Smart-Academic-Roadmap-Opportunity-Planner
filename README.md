@@ -1,29 +1,43 @@
-# Project Title
-CHARUSAT Smart Academic Roadmap & Opportunity Planner
+# Project Name: 
+Secure File Encryption & Decryption System (PDF & Images) 
+(With Visual Animation, Attempt Lock & Master Key Recovery). 
 
-# Description
-Many students at CHARUSAT often feel confused about semester planning, skill development, internships, projects, and placement preparation. Important academic and career-related information is usually scattered across multiple portals, circulars, and departments, making it difficult for students to plan their academic journey in a structured manner. Due to this, students sometimes miss valuable opportunities or start preparing too late.
-The proposed system, CHARUSAT Smart Academic Roadmap & Opportunity Planner, is a web-based application that can be integrated into the existing CHARUSAT website. The system generates a personalized academic and career roadmap for students based on their branch, current semester, and selected career goal such as placements, higher studies, or entrepreneurship.
-The platform provides semester-wise guidance including recommended skills, project ideas, certification suggestions, internship timelines, and university-level opportunities. Faculty members or administrators can upload and manage opportunities like internships, hackathons, workshops, and placement drives, which are shown only to eligible students.
-The expected outcome is better academic planning, increased participation in opportunities, improved placement readiness, and a centralized support system that benefits both students and the university.
+# Project Description: 
+In the digital era, sensitive documents such as PDFs and images are frequently 
+shared and stored online, increasing the risk of unauthorized access, data 
+breaches, and cyber threats. Many users lack simple yet powerful tools to 
+protect confidential files with strong encryption and controlled access 
+mechanisms. 
+The proposed Secure File Encryption & Decryption System is a software-based 
+solution designed to provide strong security for PDF and image files. The 
+system allows users to encrypt files using a secret key or password, making 
+them unreadable to unauthorized users. Only users with valid credentials can 
+decrypt and access the original content. 
+To enhance usability and security, the system includes visual animations to 
+demonstrate encryption and decryption processes, an attempt lock mechanism to 
+prevent brute-force attacks, and a master key recovery feature for authorized 
+recovery in case the original key is lost. This system ensures confidentiality, 
+integrity, and controlled access to sensitive digital files.
 
-# Technologies Used
-•	Frontend: Vite React (TSX), Tailwind CSS
-•	Backend: PHP
-•	Database: MySQL
-•	Tools: VS Code, GitHub
-•	Deployment: Localhost / College Server
+# Tools & Technologies: 
+• Frontend: Vite React (TSX), Tailwind CSS 
+• Backend: Python 
+• Security: AES-256, Cryptography Library, Hashlib 
+• Storage: Local file system  
+• Tools: VS Code, GitHub 
+• Deployment: Localhost / College Server
 
-# AuthorGroup Project:
-•	Student Name: Ayush Vyas
-  Enrollment ID: D25IT130
-•	Student Name: Aarchi Patel
-  Enrollment ID: D25IT133
+# Team Members: 
+Group Project: 
+• Student Name: Ayush Vyas 
+Enrollment ID: D25IT130 
+• Student Name: Aarchi Patel 
+Enrollment ID: D25IT133
 
-# Project Plan Summary
-•	Week 1–2: Problem study & requirement analysis
-•	Week 3–4: System design & database schema
-•	Week 5–8: Core feature development
-•	Week 9–11: Opportunity module & admin panel
-•	Week 12–13: Testing & refinements
-•	Week 14–15: Deployment, documentation & viva preparation
+# Working Weeks: 
+• Week 1–2: Requirement analysis & research 
+• Week 3–4: System design 
+• Week 5–8: Core implementation 
+• Week 9–10: Security features 
+• Week 11–12: Testing 
+• Week 13–14: Documentation & submission 
